@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/nirmitbansal/Python_Leetcode/tree/master/1002-find-common-characters) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0645-set-mismatch) |
+| [1002-find-common-characters](https://github.com/nirmitbansal/Python_Leetcode/tree/master/1002-find-common-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [1002-find-common-characters](https://github.com/nirmitbansal/Python_Leetcode/tree/master/1002-find-common-characters) |
 <!---LeetCode Topics End-->
