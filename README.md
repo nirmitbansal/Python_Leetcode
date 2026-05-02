@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -14,8 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/nirmitbansal/Python_Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
